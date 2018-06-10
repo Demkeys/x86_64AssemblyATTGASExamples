@@ -1,5 +1,6 @@
 ## Read and Write System Calls example ##
 
+This code is meant to be assembled, linked and run on Linux.
 To assemble, link and run:
 
 `as myreadandwriteprog.s -o myreadandwriteprog.o; ld myreadandwriteprog.o -o myreadandwriteprog; ./myreadandwriteprog`
