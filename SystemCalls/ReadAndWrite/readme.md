@@ -7,3 +7,7 @@ To assemble, link and run:
 
 _Note: Make sure the buffer size is big enough, because if the user enters more characters than the buffer size, 
 the extra characters will get entered as the next command after the program exits._
+
+To get more info on Read and Write System Calls:
+* `man 2 read`
+* `man 2 write`
