@@ -1,6 +1,6 @@
 ## Read and Write System Calls example ##
 
-This code is meant to be assembled, linked and run on Linux.
+This is an example of using the Read and Write System Calls using x86_64 Assembly AT&T GAS Syntax. This code is meant to be assembled, linked and run on Linux.
 
 To assemble, link and run type:
 
