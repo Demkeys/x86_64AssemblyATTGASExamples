@@ -33,3 +33,6 @@ _NOTE: Once the file has been encrypted, the data in the file also contains non-
 * Program will use the entered passkey to decrypt. If you enter the wrong passkey, the file will not decrypt properly.
 * Once the file has been decrypted, you can use it for it's intended purpose.
 
+![picture alt](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/blob/master/MyProjects/EncryptAndDecryptFile/screencap01.png)
+![picture alt](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/blob/master/MyProjects/EncryptAndDecryptFile/screencap02.png)
+![picture alt](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/blob/master/MyProjects/EncryptAndDecryptFile/screencap03.png)
