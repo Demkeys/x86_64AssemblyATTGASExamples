@@ -16,7 +16,9 @@ To assembly and link [decryptprog.s](https://github.com/Demkeys/x86_64AssemblyAT
 `as decryptprog.s -o decryptprog.o; ld decryptprog.o -o decryptprog`
 
 ### Instructions
-_NOTE: The programs look for a file named __testtext02__ in the current directory. So either rename the file you plan to encrypt and decrypt, or change the filename in the code for both programs to a name of your choice before assembling._
+_NOTES:
+Before encrypting or decrypting, make a backup, so that, at the offchance that something goes wrong during encryption or decryption, no data is lost.
+The programs look for a file named __testtext02__ in the current directory. So either rename the file you plan to encrypt and decrypt, or change the filename in the code for both programs to a name of your choice before assembling._
 #### To encrypt:
 * Run __encryptprog__ using `./encryptprog`. 
 * Program will prompt you to enter a passkey of max. 8 characters. The program accepts upto 1024 characters, but only uses the first 8 characters.
