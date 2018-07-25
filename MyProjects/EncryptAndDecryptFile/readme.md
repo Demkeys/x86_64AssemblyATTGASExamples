@@ -1,6 +1,6 @@
 # Encrypt and Decrypt files
 These are two programs I wrote to Encrypt and Decrypt files using a (max. 8 character) pass key.
-Both programs are written in x86_64 Assembly using AT&T GAS syntax. 
+Both programs are written in x86_64 Assembly using AT&T GAS syntax. Also, both programs only use System Calls.
 
 _DISCLAIMER: This is not necessarily example code. This is a small project I worked on, and I wanted to share the code, for whoever it helps. This code has not been optimized at all._
 
