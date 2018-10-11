@@ -8,3 +8,5 @@ All of the code is meant to be assembled, linked and run on a Linux OS.
   * [Open and Read File (using only system calls)](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/tree/master/SystemCalls/OpenAndReadFile)
 * #### Library Calls ####
   * [System](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/tree/master/LibraryCalls/System)
+* #### My Projects ####
+  * [Encrypt And Decrypt File](https://github.com/Demkeys/x86_64AssemblyATTGASExamples/tree/master/MyProjects/EncryptAndDecryptFile)
